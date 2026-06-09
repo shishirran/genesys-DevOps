@@ -9,4 +9,7 @@ resource "genesyscloud_routing_skill" "DevOps_2" {
 resource "genesyscloud_routing_skill" "DevOps_3" {
   name = "DevOpsSkill3"
 }
+resource "genesyscloud_routing_skill" "DevOps_4" {
+  name = "DevOpsSkill4"
+}
 
